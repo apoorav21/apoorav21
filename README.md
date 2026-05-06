@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- PROJECT_START:TrainFlow -->
-![Swift](https://img.shields.io/badge/Swift-617810-blue) ![AWS](https://img.shields.io/badge/AWS-Serverless-orange)  
-TrainFlow is an AI-powered fitness app for iOS offering personalized training plans, real-time health insights, and a native Apple Watch companion. Built with Swift and backed by AWS serverless infrastructure.
+![Swift](https://img.shields.io/badge/Swift-617810-orange) ![AWS](https://img.shields.io/badge/AWS-Serverless-blue)
+
+TrainFlow offers AI-powered fitness coaching for iOS, providing personalized training plans and real-time health insights. It features deep HealthKit integration and a native Apple Watch companion app.
 <!-- PROJECT_END:TrainFlow -->
 
 <!-- PROJECT_START:apoorav21 -->
