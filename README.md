@@ -26,3 +26,8 @@ TrainFlow offers AI-powered fitness coaching with personalized plans, real-time 
 
 TrainFlow offers AI-powered fitness coaching on iOS with personalized plans and real-time insights. It seamlessly integrates with HealthKit and features a native Apple Watch companion, all supported by AWS serverless infrastructure.
 <!-- PROJECT_END:apoorav21 -->
+
+<!-- PROJECT_START:Sign-Language-Translator- -->
+![Python](https://img.shields.io/badge/Python-100%-blue)  
+This project is an AI-based sign language interpreter that recognizes and translates hand signs into text using deep learning and MediaPipe Hand Tracking. It aims to enhance communication accessibility by classifying gestures into corresponding sign language text.
+<!-- PROJECT_END:Sign-Language-Translator- -->
