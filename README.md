@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 
 TrainFlow offers AI-powered fitness coaching on iOS with personalized plans and real-time insights. It seamlessly integrates with HealthKit and features a native Apple Watch companion, all supported by AWS serverless infrastructure.
 <!-- PROJECT_END:TrainFlow -->
+
+<!-- PROJECT_START:apoorav21 -->
+![Swift](https://img.shields.io/badge/Swift-blue) ![Python](https://img.shields.io/badge/Python-yellow) ![AWS](https://img.shields.io/badge/AWS-orange)
+
+TrainFlow offers AI-powered fitness coaching on iOS with personalized plans and real-time insights. It seamlessly integrates with HealthKit and features a native Apple Watch companion, all supported by AWS serverless infrastructure.
+<!-- PROJECT_END:apoorav21 -->
