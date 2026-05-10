@@ -59,11 +59,9 @@ by Karpathy's approach to personal knowledge management with LLMs.
 
 <!-- AGENT_PROJECTS_START -->
 <!-- PROJECT_START:profile-agent -->
-![Python](https://img.shields.io/badge/language-Python-blue) ![TeX](https://img.shields.io/badge/LaTeX-TeX-blue)
-
-## Profile Agent
-
-An automated personal branding agent that syncs your GitHub, resume, and LinkedIn effortlessly. Using GPT-4o, it ensures your online presence is always up-to-date with your latest projects.
+### [Profile Agent](https://github.com/apoorav21/profile-agent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+An automated personal branding agent that watches GitHub for new repositories and keeps resume, LinkedIn, and GitHub profile content in sync. Uses Python orchestration, context-aware generation, and LaTeX resume compilation to maintain a consistent professional narrative automatically.
 <!-- PROJECT_END:profile-agent -->
 
 <!-- AGENT_PROJECTS_END -->
