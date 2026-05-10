@@ -65,3 +65,9 @@ by Karpathy's approach to personal knowledge management with LLMs.
 ## LLM Knowledge Base ![Shell](https://img.shields.io/badge/Shell-100%25-blue)
 A self-compiling LLM knowledge base built on Karpathy's pattern. Automate your knowledge management with slash commands and cron jobs.
 <!-- PROJECT_END:llm-knowledge-base -->
+
+<!-- PROJECT_START:profile-agent -->
+![Python](https://img.shields.io/badge/Python-62072-blue)
+
+An automated personal branding agent that keeps your online persona consistent. It updates your resume, LinkedIn, and GitHub profile README automatically, leveraging GPT-4o for context-aware content generation.
+<!-- PROJECT_END:profile-agent -->
