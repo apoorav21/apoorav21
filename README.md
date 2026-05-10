@@ -60,3 +60,8 @@ by Karpathy's approach to personal knowledge management with LLMs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorav-rao)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:apooravrao@gmail.com)
+
+<!-- PROJECT_START:llm-knowledge-base -->
+## LLM Knowledge Base ![Shell](https://img.shields.io/badge/Shell-100%25-blue)
+A self-compiling LLM knowledge base built on Karpathy's pattern. Automate your knowledge management with slash commands and cron jobs.
+<!-- PROJECT_END:llm-knowledge-base -->
