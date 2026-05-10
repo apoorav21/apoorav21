@@ -1,6 +1,6 @@
 # Hi, I'm Apoorav 👋
 
-Data Engineer & CS student (graduating June 2026) with hands-on experience building
+CS student (graduating June 2026) with hands-on experience building
 ETL pipelines, LLM integrations, and cloud data systems.
 
 ---
